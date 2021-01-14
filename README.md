@@ -13,12 +13,37 @@ pip3 install numpy seaborn matplotlib pandas
 
 ### Motivation
 
-This project is motivated by the need to understand the features that could potenttialy impact a developer's salary
+This project is motivated by the need to understand the features that could potenttialy impact a developer's salary, and aims to answer the following questions:
+
+1. Which were the most used languages in 2020?
+
+2. Does the language you work with affect your salary?
+
+3. Does male developers earn more than females?
+
+4. Which countries pays the most?
+
+5. What features have the greatest impact on the developer's salary?
 
 ### Files
 
-Project_1.ipynb the notebook file
+Project_1.ipynb the notebook file with the analysis' results
 
 ### How to Use
 
 To use this notebook, download the dataset (https://stackoverflow.blog/2020/07/27/public-data-release-of-stack-overflows-2020-developer-survey/), complete the instalation step and you are good to go!
+
+### Summary of The Results
+
+The analysis lead to the blog post on Medium: (https://felipeagarcia.medium.com/5-things-that-can-affect-your-salary-as-a-developer-2ac89d4fda7c), where we evaluated 5 things that can affect a developer's salary, furthermore, we answered the proposed questions on the motivation by doing statistical analysis, data visualization a data modeling
+
+### Acknowledgments
+
+Used dataset: https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view
+
+**References**
+
+1. https://insights.stackoverflow.com/survey/2020
+
+
+
